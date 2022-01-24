@@ -1,4 +1,7 @@
 # course-website
+
+A Spring MVC application to manage courses for the college website aimed to provide recommendations to students on course selection.
+
 The Project has 2 modules 1 - Show all Courses - index.htm 2 - Add Courses - loginPage.htm Add Courses module can only be accesed only after authentication
 
 MVC Framework has been followed 
